@@ -29,7 +29,6 @@
    social:likesMovie dbr:The_Godfather , dbr:Aliens_(film) ;
    social:hasSpiritAnimal dbr:South_American_tapir;
    social:hasFavouritePlatonicSolid dbr:Icosahedron ;
-
-
    foaf:myersBriggs "ENTJ" .
+
 
