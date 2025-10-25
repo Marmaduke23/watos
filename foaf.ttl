@@ -1,4 +1,4 @@
-@base <https://raw.githubusercontent.com/Marmaduke23/watos/refs/heads/main/foaf.ttl> .
+@base <http://raw.githubusercontent.com/Marmaduke23/watos/refs/heads/main/foaf.ttl> .
 
 @prefix jjj: <https://raw.githubusercontent.com/Marmaduke23/watos/refs/heads/main/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -32,6 +32,7 @@
    social:hasSpiritAnimal dbr:South_American_tapir ;
    social:hasFavouritePlatonicSolid dbr:Icosahedron ;
    foaf:myersBriggs "ENTJ" .
+
 
 
 
